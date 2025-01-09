@@ -1,13 +1,12 @@
 # Aditi Baghel
 
 ## Hi there 👋,
-#### A passionate AI and machine learning enthusiast, I thrive on solving complex problems through innovative solutions. With experience in predictive modeling and deep learning applications, I have a proven track record of enhancing user experiences and contributing to published research. My technical skills in C++, MySQL, and Python, combined with a strong academic background, drive my commitment to continuous learning and collaboration.
+#### I'm Aditi Baghel, a passionate Full-Stack Developer with experience in building dynamic web applications and engaging 3D games.
 
 ## 🧐 About
-- 🏄‍ ML Enthusiast
+- 🏄‍ a problem solver
 - 🤝 I am eager to dive in both tech and non-tech roles
-- 🌱 I’m currently learning Deep Learning.
-- 📫 How to reach me: mail me at [aditibaghel2k323@gmail.com](mailto:aditibaghel2k323@gmail.com)
+- 📫 How to reach me: mail me at [aditibaghel2k26@gmail.com](mailto:aditibaghel2k26@gmail.com)
 ---
 
 ### Languages and Tools:
