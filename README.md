@@ -6,7 +6,7 @@
 ## 🧐 About
 - 🏄‍ a problem solver
 - 🤝 I am eager to dive in both tech and non-tech roles
-- 📫 How to reach me: mail me at [aditibaghel2k26@gmail.com](mailto:aditibaghel2k26@gmail.com)
+- 📫 How to reach me: mail me at [aditibaghel2k323@gmail.com](mailto:aditibaghel2k323@gmail.com)
 ---
 
 ### Languages and Tools:
